@@ -1,0 +1,11 @@
+div {
+  border: 1px solid rgb(138, 137, 137);
+  display: inline-block;
+  width: 300px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+}
+p {
+  font-weight: bold;
+  font-size: 18px;
+}
